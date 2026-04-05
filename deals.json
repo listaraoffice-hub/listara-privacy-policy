@@ -1,0 +1,18 @@
+[
+  {
+    "store": "Aldi",
+    "product": "EMPORIUM Grated Mozzarella",
+    "size": "250 g",
+    "price": "1.99",
+    "saved": "0.20",
+    "until": "2026-04-19"
+  },
+  {
+    "store": "Aldi",
+    "product": "EMPORIUM Mild Cheddar Cheese",
+    "size": "400 g",
+    "price": "2.49",
+    "saved": "0.30",
+    "until": "2026-04-19"
+  }
+]
