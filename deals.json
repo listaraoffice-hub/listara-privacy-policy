@@ -1,80 +1,35 @@
 [
   {
-    "store": "Lidl",
-    "product": "Panini",
-    "size": "4 pcs",
-    "price": "1.00",
-    "saved": "Save 0.40",
-    "from": "2026-04-09",
-    "until": ""
-  },
-  {
-    "store": "Lidl",
-    "product": "J.D.Gross Belgian Seashell Chocolates",
-    "size": "1 pcs",
-    "price": "3.29",
-    "saved": "Save 0.50",
-    "from": "2026-04-09",
-    "until": ""
-  },
-  {
-    "store": "Lidl",
-    "product": "Eridanous Whole Green Olives",
-    "size": "1 pcs",
-    "price": "3.99",
-    "saved": "Save 1.00",
-    "from": "2026-04-09",
-    "until": ""
-  },
-  {
-    "store": "Lidl",
-    "product": "Eridanous Greek Roasted Coffee",
-    "size": "1 pcs",
-    "price": "1.99",
-    "saved": "Save 0.50",
-    "from": "2026-04-09",
-    "until": ""
-  },
-  {
     "store": "Tesco",
-    "product": "Lurpak Slightly Salted Spreadable",
-    "size": "400 g",
-    "price": "3.00",
-    "saved": "Save 1.25",
+    "product": "Tesco Blueberries",
+    "size": "250 g",
+    "price": "2.15",
+    "saved": "Save 0.45",
     "from": "",
-    "until": "2026-05-12"
+    "until": "2026-05-18"
   },
   {
     "store": "Tesco",
-    "product": "Strawberries",
-    "size": "400 g",
-    "price": "2.60",
+    "product": "Tesco Red Seedless Grapes",
+    "size": "500 g",
+    "price": "1.50",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-05-18"
+  },
+  {
+    "store": "Tesco",
+    "product": "PG Tips Black Tea 160 Tea Bags",
+    "size": "464 g",
+    "price": "4.00",
     "saved": "Save 1.00",
     "from": "",
-    "until": "2026-04-20"
-  },
-  {
-    "store": "Tesco",
-    "product": "Finest Baby Potatoes",
-    "size": "750 g",
-    "price": "0.99",
-    "saved": "Save 0.31",
-    "from": "",
-    "until": "2026-04-20"
-  },
-  {
-    "store": "Tesco",
-    "product": "Boursin Garlic & Herbs Soft Cheese",
-    "size": "150 g",
-    "price": "2.00",
-    "saved": "Save 0.95",
-    "from": "",
-    "until": "2026-04-21"
+    "until": "2026-05-11"
   },
   {
     "store": "Tesco",
     "product": "Plenty Original Kitchen Roll 1 Roll",
-    "size": "1 pcs",
+    "size": "1",
     "price": "1.95",
     "saved": "Save 1.00",
     "from": "",
@@ -82,138 +37,192 @@
   },
   {
     "store": "Tesco",
-    "product": "Castello Creamy Blue Cheese",
-    "size": "150 g",
-    "price": "2.00",
-    "saved": "Save 0.80",
-    "from": "",
-    "until": "2026-04-21"
-  },
-  {
-    "store": "Aldi",
-    "product": "Magnum washing up liquid",
-    "size": "500 ml",
-    "price": "0.62",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-12"
-  },
-  {
-    "store": "Aldi",
-    "product": "Almat Bio 3-1 Laundry caps. 20 pack",
-    "size": "1 pcs",
-    "price": "2.45",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-12"
-  },
-  {
-    "store": "Aldi",
-    "product": "Almat Bio Laundry Liquid",
-    "size": "1.8 L",
-    "price": "2.99",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-12"
-  },
-  {
-    "store": "Aldi",
-    "product": "Cucumbers",
-    "size": "1 pcs",
-    "price": "0.69",
-    "saved": "Save 0.30",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Aldi",
-    "product": "Cauliflower",
-    "size": "1 pcs",
-    "price": "0.79",
-    "saved": "Save 0.40",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Barilla Pasta Linguine",
-    "size": "500 g",
-    "price": "1.00",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Casa Luis Cava Wine Rose Dry 75 cl",
-    "size": "6 bottles",
-    "price": "25.00",
-    "saved": "Save 9.00",
-    "from": "",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Budweiser Original Czech Beer",
-    "size": "500 ml",
-    "price": "1.76",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Jack Daniel's Honey Bourbon 70 cl",
+    "product": "Weetabix Cereal 24 Pack",
     "size": "1",
-    "price": "18.50",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
+    "price": "3.00",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-05-12"
+  },
+  {
+    "store": "Tesco",
+    "product": "Pringles Original Crisps 185g",
+    "size": "1",
+    "price": "1.85",
+    "saved": "Save 0.65",
+    "from": "",
+    "until": "2026-05-19"
+  },
+  {
+    "store": "Tesco",
+    "product": "Walkers Multipack Crisps 20x25g",
+    "size": "1",
+    "price": "4.00",
+    "saved": "Save 0.85",
+    "from": "",
+    "until": "2026-05-19"
+  },
+  {
+    "store": "Tesco",
+    "product": "Kp Original Salted Peanuts 415G",
+    "size": "1",
+    "price": "3.75",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-05-19"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Cashew Nuts 200G",
+    "size": "1",
+    "price": "2.10",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-04-30"
+  },
+  {
+    "store": "Tesco",
+    "product": "Mutti Tomato Pasta Sauce Basil",
+    "size": "400 g",
+    "price": "2.00",
+    "saved": "Save 1.20",
+    "from": "",
+    "until": "2026-05-11"
   },
   {
     "store": "Asda",
     "product": "Domestos Thick Bleach Original",
     "size": "750 ml",
-    "price": "1.27",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Lynx Black 3-in-1 Body Wash 225 ml",
-    "size": "1 pcs",
-    "price": "1.42",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Coca-Cola 8 x 330ml",
-    "size": "1 pack",
-    "price": "5.57",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Asda",
-    "product": "Mexican Style Mixed Beans in Water",
-    "size": "400 g",
     "price": "1.00",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
+    "saved": "Save 0.27",
+    "from": "",
+    "until": "2026-05-13"
   },
   {
     "store": "Asda",
-    "product": "Hellmann's Real Mayonnaise 250 ml",
-    "size": "1 pcs",
-    "price": "1.98",
-    "saved": "Limited time offer",
-    "from": "2026-04-06",
-    "until": "2026-04-22"
+    "product": "Oreo Ice Cream Sandwiches",
+    "size": "280 g",
+    "price": "2.52",
+    "saved": "Save 1.38",
+    "from": "",
+    "until": "2026-05-06"
+  },
+  {
+    "store": "Asda",
+    "product": "Fairy Non Bio 70 PODS",
+    "size": "1",
+    "price": "12.00",
+    "saved": "Save 3.98",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Asda",
+    "product": "1000 Stories Zinfa Red Wine 75cl",
+    "size": "1",
+    "price": "12.50",
+    "saved": "Save 2.50",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Asda",
+    "product": "Sheba Cat Food Mixed 8x85g",
+    "size": "1",
+    "price": "3.74",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Asda",
+    "product": "Birra Moretti Bottle Beer 12x330ml",
+    "size": "1",
+    "price": "13.00",
+    "saved": "Save 4.47",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Asda",
+    "product": "Ariel 4in1 washing 33 PODS",
+    "size": "1",
+    "price": "7.00",
+    "saved": "Save 0.58",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Asda",
+    "product": "ASDA 3 Red Onions",
+    "size": "1",
+    "price": "0.75",
+    "saved": "Save 0.20",
+    "from": "",
+    "until": "2026-05-06"
+  },
+  {
+    "store": "Asda",
+    "product": "Philadelphia Soft Cheese Milka",
+    "size": "150 g",
+    "price": "1.00",
+    "saved": "Save 1.08",
+    "from": "",
+    "until": "2026-05-06"
+  },
+  {
+    "store": "Asda",
+    "product": "Anchor Salted Spreadable Butter",
+    "size": "750 g",
+    "price": "4.75",
+    "saved": "Save 2.73",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Lidl",
+    "product": "Raspberrries 125 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.66",
+    "from": "",
+    "until": "2026-04-29"
+  },
+  {
+    "store": "Lidl",
+    "product": "Chef Select Beef Lasagna 1 kg",
+    "size": "1",
+    "price": "3.95",
+    "saved": "Save 0.70",
+    "from": "",
+    "until": "2026-04-29"
+  },
+  {
+    "store": "Lidl",
+    "product": "Tetley Original 440 Tea Bags",
+    "size": "1",
+    "price": "4.99",
+    "saved": "Save 1.50",
+    "from": "",
+    "until": "2026-05-06"
+  },
+  {
+    "store": "Lidl",
+    "product": "Alesto Roasted Peanuts 1 kg",
+    "size": "1",
+    "price": "2.99",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-05-06"
+  },
+  {
+    "store": "Lidl",
+    "product": "Red Onions 1 kg",
+    "size": "1",
+    "price": "0.69",
+    "saved": "Save 0.26",
+    "from": "",
+    "until": "2026-04-29"
   },
   {
     "store": "Aldi",
@@ -222,123 +231,51 @@
     "price": "1.99",
     "saved": "Save 0.20",
     "from": "",
-    "until": "2026-04-19"
+    "until": "2026-05-06"
   },
   {
     "store": "Aldi",
-    "product": "ASHFIELDS Pork Belly Slices",
-    "size": "500 g",
-    "price": "3.39",
-    "saved": "Save 0.10",
-    "from": "",
-    "until": "2026-04-19"
-  },
-  {
-    "store": "Aldi",
-    "product": "EMPORIUM Mild Cheddar Cheese",
-    "size": "400 g",
+    "product": "British Rapeseed Oil 500 ml",
+    "size": "1",
     "price": "2.49",
-    "saved": "Save 0.30",
+    "saved": "Save 0.26",
     "from": "",
-    "until": "2026-04-19"
+    "until": "2026-05-13"
   },
   {
     "store": "Aldi",
-    "product": "Cinnamon Chips Cereal",
-    "size": "565 g",
-    "price": "1.99",
-    "saved": "Save 0.10",
-    "from": "",
-    "until": "2026-04-27"
-  },
-  {
-    "store": "Aldi",
-    "product": "Strawberry Crisp Cereal",
-    "size": "500 g",
-    "price": "1.59",
-    "saved": "Save 0.10",
-    "from": "",
-    "until": "2026-04-27"
-  },
-  {
-    "store": "Aldi",
-    "product": "Orange Blossom Squeezy Honey",
-    "size": "340 g",
-    "price": "2.19",
-    "saved": "Save 0.20",
-    "from": "",
-    "until": "2026-04-27"
-  },
-  {
-    "store": "Aldi",
-    "product": "Cranberry Juice Drink",
-    "size": "1 L",
-    "price": "0.99",
-    "saved": "Save 0.10",
-    "from": "",
-    "until": "2026-04-27"
-  },
-  {
-    "store": "Aldi",
-    "product": "BRODERICK’S Brownie 4 Slices",
+    "product": "OLD HOPKING Durk Rum 700ml",
     "size": "1",
-    "price": "0.99",
-    "saved": "Save 0.10",
-    "from": "",
-    "until": "2026-04-22"
-  },
-  {
-    "store": "Lidl",
-    "product": "Cadbury Mini Eggs Small Easter Egg",
-    "size": "1",
-    "price": "0.99",
+    "price": "11.99",
     "saved": "Save 0.50",
     "from": "",
-    "until": "2026-04-19"
+    "until": "2026-05-13"
   },
   {
-    "store": "Lidl",
-    "product": "Smarties Medium Easter Egg",
+    "store": "Aldi",
+    "product": "Grapevine Chardonnay White Wine",
+    "size": "75 cl",
+    "price": "3.75",
+    "saved": "Save 0.34",
+    "from": "",
+    "until": "2026-05-13"
+  },
+  {
+    "store": "Aldi",
+    "product": "Fresh British Soured Cream 300ml",
     "size": "1",
-    "price": "0.99",
-    "saved": "Save 0.50",
+    "price": "0.85",
+    "saved": "Save 0.14",
     "from": "",
-    "until": "2026-04-19"
+    "until": "2026-05-13"
   },
   {
-    "store": "Lidl",
-    "product": "White Potatoes",
-    "size": "2 kg",
-    "price": "0.08",
-    "saved": "Limited time offer",
+    "store": "Aldi",
+    "product": "Lurpak Spreadable 500g",
+    "size": "1",
+    "price": "4.39",
+    "saved": "Save 0.49",
     "from": "",
-    "until": "2026-04-19"
-  },
-  {
-    "store": "Lidl",
-    "product": "Carrots",
-    "size": "1 kg",
-    "price": "0.08",
-    "saved": "Limited time offer",
-    "from": "",
-    "until": "2026-04-19"
-  },
-  {
-    "store": "Lidl",
-    "product": "Parsnips",
-    "size": "500 g",
-    "price": "0.08",
-    "saved": "Limited time offer",
-    "from": "",
-    "until": "2026-04-19"
-  },
-  {
-    "store": "Lidl",
-    "product": "Deluxe Echalion Shallots",
-    "size": "300 g",
-    "price": "0.15",
-    "saved": "Limited time offer",
-    "from": "",
-    "until": "2026-04-19"
+    "until": "2026-05-13"
   }
 ]
