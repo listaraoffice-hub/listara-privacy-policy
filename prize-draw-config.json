@@ -1,11 +1,11 @@
 {
-  "promo_draw_enabled": true,
-  "draw_month": "April 2026",
-  "month_key": "2026-04",
-  "month_code": "AL",
+  "promo_draw_enabled": false,
+  "draw_month": "",
+  "month_key": "",
+  "month_code": "",
   "free_entries": 1,
   "premium_entries": 10,
   "winning_public_code": "",
-  "winning_draw_month": "AL100005",
+  "winning_draw_month": "",
   "claim_deadline_days": 7
 }
