@@ -1,39 +1,21 @@
 [
   {
     "store": "Aldi",
-    "product": "Diet Coca-Cola 8 Pack 330ml",
+    "product": "Coca-Cola Zero 8 Pack 330ml",
     "size": "1",
     "price": "3.49",
     "saved": "Save 0.50",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Aldi",
-    "product": "Coca-Cola 8 Pack 330ml",
+    "product": "OLD HOPKING White Rum 700ml",
     "size": "1",
-    "price": "3.49",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Aldi",
-    "product": "OLD HOPKING Durk Rum 700ml",
-    "size": "1",
-    "price": "11.99",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Aldi",
-    "product": "Pickled Pink Onions 156 g",
-    "size": "1",
-    "price": "0.99",
+    "price": "12.29",
     "saved": "Save 0.20",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Aldi",
@@ -42,34 +24,25 @@
     "price": "5.49",
     "saved": "Save 1.50",
     "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Aldi",
-    "product": "GRANDESSA Peanut Butter",
-    "size": "340 g",
-    "price": "1.39",
-    "saved": "Save 0.20",
-    "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Aldi",
     "product": "CARLOS Takeaway Fries 300 g",
     "size": "1",
-    "price": "1.49",
+    "price": "1.29",
     "saved": "Save 0.20",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Aldi",
     "product": "Hot Honey Chicken Thigh Bites",
     "size": "300 g",
-    "price": "2.29",
-    "saved": "Save 0.10",
+    "price": "1.99",
+    "saved": "Save 0.30",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Aldi",
@@ -78,7 +51,7 @@
     "price": "2.49",
     "saved": "Save 0.40",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Aldi",
@@ -87,43 +60,52 @@
     "price": "2.29",
     "saved": "Save 0.40",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Aldi",
+    "product": "Specially Selected Pesto Rosso",
+    "size": "190 g",
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Aldi",
+    "product": "Specially Selected Chocolate Cake 413 g",
+    "size": "1",
+    "price": "2.35",
+    "saved": "Save 0.64",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Aldi",
+    "product": "GREYSON'S Lemon Gin 0.7 L",
+    "size": "1",
+    "price": "12.99",
+    "saved": "Save 1.00",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Aldi",
+    "product": "CADBURY Twirl 5 Pack",
+    "size": "1",
+    "price": "1.39",
+    "saved": "Save 0.26",
+    "from": "",
+    "until": "2026-06-14"
   },
   {
     "store": "Asda",
-    "product": "ASDA British Raspberries 250g",
+    "product": "ASDA Raspberries 250g",
     "size": "1",
     "price": "2.68",
     "saved": "Save 0.44",
     "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Asda",
-    "product": "Ariel 4in1 washing 33 PODS",
-    "size": "1",
-    "price": "7.00",
-    "saved": "Save 0.58",
-    "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Asda",
-    "product": "Fairy Non Bio 70 PODS",
-    "size": "1",
-    "price": "12.00",
-    "saved": "Save 3.98",
-    "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Asda",
-    "product": "Sheba Cat Food Mixed 8x85g",
-    "size": "1",
-    "price": "3.74",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Asda",
@@ -132,7 +114,7 @@
     "price": "2.10",
     "saved": "Save 0.44",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Asda",
@@ -141,16 +123,7 @@
     "price": "1.77",
     "saved": "Save 0.60",
     "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Asda",
-    "product": "ASDA Red Grapefruit",
-    "size": "1",
-    "price": "0.35",
-    "saved": "Save 0.09",
-    "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Asda",
@@ -159,16 +132,7 @@
     "price": "19.50",
     "saved": "Save 3.50",
     "from": "",
-    "until": "2026-05-31"
-  },
-  {
-    "store": "Asda",
-    "product": "Doritos Chilli Tortilla Crisps 180g",
-    "size": "1",
-    "price": "1.50",
-    "saved": "Save 0.25",
-    "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
   },
   {
     "store": "Asda",
@@ -177,7 +141,52 @@
     "price": "6.00",
     "saved": "Save 2.27",
     "from": "",
-    "until": "2026-05-31"
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Asda",
+    "product": "La Vieille Wine rose 750ml",
+    "size": "1",
+    "price": "7.00",
+    "saved": "Save 2.00",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Asda",
+    "product": "Madri Lager Beer Can 10 x 440ml",
+    "size": "1",
+    "price": "11.00",
+    "saved": "Save 3.93",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Asda",
+    "product": "M&M's Chocolate bag 200 g",
+    "size": "1",
+    "price": "2.65",
+    "saved": "Save 0.43",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Asda",
+    "product": "Persil Bio Liquid Detergent 53 w",
+    "size": "1.4 L",
+    "price": "7.00",
+    "saved": "Save 1.98",
+    "from": "",
+    "until": "2026-06-14"
+  },
+  {
+    "store": "Asda",
+    "product": "F. Berio Extra Virgin Olive Oil 0.5 L",
+    "size": "1",
+    "price": "4.50",
+    "saved": "Save 2.98",
+    "from": "",
+    "until": "2026-06-14"
   },
   {
     "store": "Tesco",
@@ -271,65 +280,92 @@
   },
   {
     "store": "Lidl",
-    "product": "Ben & Jerry’s Ice Cream 465 ml",
-    "size": "1",
-    "price": "3.00",
-    "saved": "Save 2.55",
-    "from": "",
-    "until": "2026-05-27"
-  },
-  {
-    "store": "Lidl",
-    "product": "RED HEN Chicken Wings 1 kg",
-    "size": "1",
-    "price": "3.29",
-    "saved": "Save 0.40",
-    "from": "2026-05-21",
-    "until": "2026-05-27"
-  },
-  {
-    "store": "Lidl",
-    "product": "ALESTO Peanuts 200 g",
-    "size": "1",
-    "price": "0.79",
-    "saved": "Save 0.20",
-    "from": "2026-05-21",
-    "until": "2026-05-27"
-  },
-  {
-    "store": "Lidl",
-    "product": "Medium Oranges 5 pack",
-    "size": "1",
-    "price": "0.99",
-    "saved": "Save 0.30",
-    "from": "2026-05-07",
-    "until": "2026-05-27"
-  },
-  {
-    "store": "Lidl",
-    "product": "Blueberries 150 g",
-    "size": "1",
-    "price": "1.29",
-    "saved": "Save 0.30",
-    "from": "2026-05-21",
-    "until": "2026-05-27"
-  },
-  {
-    "store": "Lidl",
-    "product": "VITASIA Rice vinegar 250 ml",
+    "product": "MCENNEDY Twinkies 8 x 45g",
     "size": "1",
     "price": "1.99",
     "saved": "Save 0.50",
-    "from": "2026-05-07",
-    "until": "2026-05-20"
+    "from": "2026-06-04",
+    "until": "2026-06-11"
   },
   {
     "store": "Lidl",
-    "product": "Loose Red Pepper",
+    "product": "MCENNEDY Football Pralines",
+    "size": "120 g",
+    "price": "2.49",
+    "saved": "Save 0.50",
+    "from": "2026-06-04",
+    "until": "2026-06-11"
+  },
+  {
+    "store": "Lidl",
+    "product": "MCENNEDY Pickle Spears 710 ml",
     "size": "1",
-    "price": "0.49",
-    "saved": "Save 0.21",
-    "from": "2026-05-07",
-    "until": "2026-05-20"
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "2026-06-04",
+    "until": "2026-06-11"
+  },
+  {
+    "store": "Lidl",
+    "product": "MAGNUM 6 Ice Cream Sticks",
+    "size": "1",
+    "price": "3.25",
+    "saved": "Save 1.00",
+    "from": "",
+    "until": "2026-06-11"
+  },
+  {
+    "store": "Lidl",
+    "product": "CUSHELLE Toilet Paper 32 rolls",
+    "size": "1",
+    "price": "14.99",
+    "saved": "Save 2.00",
+    "from": "2026-06-04",
+    "until": "2026-06-11"
+  },
+  {
+    "store": "Lidl",
+    "product": "Mango",
+    "size": "1",
+    "price": "0.69",
+    "saved": "Save 0.30",
+    "from": "",
+    "until": "2026-06-03"
+  },
+  {
+    "store": "Lidl",
+    "product": "Vine Tomatoes 1 kg",
+    "size": "1",
+    "price": "1.79",
+    "saved": "Save 0.79",
+    "from": "",
+    "until": "2026-06-03"
+  },
+  {
+    "store": "Lidl",
+    "product": "Apricots Ripen-at-Home 500 g",
+    "size": "1",
+    "price": "1.79",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-06-03"
+  },
+  {
+    "store": "Lidl",
+    "product": "MCENNEDY Peanuts In Shells",
+    "size": "500 g",
+    "price": "1.99",
+    "saved": "Save 0.50",
+    "from": "2026-06-04",
+    "until": "2026-06-11"
+  },
+  {
+    "store": "Lidl",
+    "product": "Galia Melon",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.36",
+    "from": "",
+    "until": "2026-06-11"
   }
 ]
