@@ -1,5 +1,203 @@
 [
   {
+    "store": "Tesco",
+    "product": "Heinz Baked Beans 4X415g",
+    "size": "1",
+    "price": "3.50",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": "2026-08-03"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Almonds 200G",
+    "size": "1",
+    "price": "2.10",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-07-07"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Walnuts 200G",
+    "size": "1",
+    "price": "2.10",
+    "saved": "Save 0.65",
+    "from": "",
+    "until": "2026-07-07"
+  },
+  {
+    "store": "Tesco",
+    "product": "After Eight Mint Chocolate 300g",
+    "size": "1",
+    "price": "3.50",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-07-22"
+  },
+  {
+    "store": "Tesco",
+    "product": "Cadbury Milk Chocolate Bar 360G",
+    "size": "1",
+    "price": "4.25",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-06-21"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Butter Brioche Rolls 8 Pack",
+    "size": "1",
+    "price": "1.40",
+    "saved": "Save 0.30",
+    "from": "",
+    "until": "2026-06-23"
+  },
+  {
+    "store": "Tesco",
+    "product": "HP Brown Sauce 450g",
+    "size": "1",
+    "price": "2.50",
+    "saved": "Save 1.10",
+    "from": "",
+    "until": "2026-07-20"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Finest Raspberries 150G",
+    "size": "1",
+    "price": "2.30",
+    "saved": "Save 0.65",
+    "from": "",
+    "until": "2026-07-27"
+  },
+  {
+    "store": "Tesco",
+    "product": "Suntrail Farms Nectarines Min.4",
+    "size": "1",
+    "price": "1.15",
+    "saved": "Save 0.64",
+    "from": "",
+    "until": "2026-06-29"
+  },
+  {
+    "store": "Tesco",
+    "product": "Budweiser Beer Bottles 20 x 0.3 L",
+    "size": "1",
+    "price": "10.00",
+    "saved": "Save 5.79",
+    "from": "",
+    "until": "2026-07-20"
+  },
+  {
+    "store": "Lidl",
+    "product": "Lipton Ice Tea Lemon / Peach",
+    "size": "1.25L",
+    "price": "0.99",
+    "saved": "Save 0.50",
+    "from": "2026-06-11",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Cadbury 4 Milk Ice Cream Sticks",
+    "size": "1",
+    "price": "3.05",
+    "saved": "Save 1.20",
+    "from": "",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Jersey Royal New Potatoes",
+    "size": "750g",
+    "price": "1.49",
+    "saved": "Save 0.36",
+    "from": "",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Funsize Apples 6 pack",
+    "size": "1",
+    "price": "0.59",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Spring Onions 1 bunch",
+    "size": "1",
+    "price": "0.49",
+    "saved": "Save 0.20",
+    "from": "",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Large Flat Mushrooms 250 g",
+    "size": "1",
+    "price": "0.59",
+    "saved": "Save 0.30",
+    "from": "2026-06-11",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Ripe & Ready Large Avocado",
+    "size": "1",
+    "price": "0.69",
+    "saved": "Save 0.26",
+    "from": "2026-06-11",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "Galia Melon",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.26",
+    "from": "2026-06-11",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Lidl",
+    "product": "MARIBEL Peanut Butter 1 kg",
+    "size": "1",
+    "price": "3.49",
+    "saved": "Save 0.50",
+    "from": "2026-06-11",
+    "until": "2026-06-17"
+  },
+  {
+    "store": "Aldi",
+    "product": "Pesto Alla Genovese 190 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "Pesto Rosso 190 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "West Country Cheddar Cheese",
+    "size": "300 g",
+    "price": "2.99",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
     "store": "Aldi",
     "product": "Coca-Cola Zero 8 Pack 330ml",
     "size": "1",
@@ -63,309 +261,93 @@
     "until": "2026-06-14"
   },
   {
-    "store": "Aldi",
-    "product": "Specially Selected Pesto Rosso",
+    "store": "Asda",
+    "product": "Nescafe Original Instant Coffee",
     "size": "190 g",
-    "price": "1.49",
-    "saved": "Save 0.50",
+    "price": "5.50",
+    "saved": "Save 1.15",
     "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "Specially Selected Chocolate Cake 413 g",
-    "size": "1",
-    "price": "2.35",
-    "saved": "Save 0.64",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "GREYSON'S Lemon Gin 0.7 L",
-    "size": "1",
-    "price": "12.99",
-    "saved": "Save 1.00",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "CADBURY Twirl 5 Pack",
-    "size": "1",
-    "price": "1.39",
-    "saved": "Save 0.26",
-    "from": "",
-    "until": "2026-06-14"
+    "until": "2026-07-25"
   },
   {
     "store": "Asda",
-    "product": "ASDA Raspberries 250g",
-    "size": "1",
-    "price": "2.68",
-    "saved": "Save 0.44",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "Saint Agur Blue Cheese 125 g",
-    "size": "1",
-    "price": "2.10",
-    "saved": "Save 0.44",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "ASDA 6 Jazz Apples",
-    "size": "1",
-    "price": "1.77",
-    "saved": "Save 0.60",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "Absolut Original Vodka 70 cl",
-    "size": "1",
-    "price": "19.50",
-    "saved": "Save 3.50",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "Nescafé Gold Blend Instant Coffee",
-    "size": "190 g",
-    "price": "6.00",
-    "saved": "Save 2.27",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "La Vieille Wine rose 750ml",
+    "product": "Surf Deep Sea Laundry Liq.60 w",
     "size": "1",
     "price": "7.00",
-    "saved": "Save 2.00",
+    "saved": "Save 0.98",
     "from": "",
-    "until": "2026-06-14"
+    "until": "2026-07-25"
   },
   {
     "store": "Asda",
-    "product": "Madri Lager Beer Can 10 x 440ml",
-    "size": "1",
-    "price": "11.00",
-    "saved": "Save 3.93",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "M&M's Chocolate bag 200 g",
-    "size": "1",
-    "price": "2.65",
-    "saved": "Save 0.43",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "Persil Bio Liquid Detergent 53 w",
-    "size": "1.4 L",
-    "price": "7.00",
-    "saved": "Save 1.98",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Asda",
-    "product": "F. Berio Extra Virgin Olive Oil 0.5 L",
+    "product": "Filippo Berio Olive Oil 500ml",
     "size": "1",
     "price": "4.50",
     "saved": "Save 2.98",
     "from": "",
-    "until": "2026-06-14"
+    "until": "2026-07-25"
   },
   {
-    "store": "Tesco",
-    "product": "Tesco Almonds 200G",
+    "store": "Asda",
+    "product": "M&M's Chocolate Pouch Bag 200g",
     "size": "1",
-    "price": "2.10",
-    "saved": "Save 0.75",
+    "price": "2.65",
+    "saved": "Save 0.43",
     "from": "",
-    "until": "2026-07-07"
+    "until": "2026-07-25"
   },
   {
-    "store": "Tesco",
-    "product": "Tesco Walnuts 200G",
-    "size": "1",
-    "price": "2.10",
-    "saved": "Save 0.65",
-    "from": "",
-    "until": "2026-07-07"
-  },
-  {
-    "store": "Tesco",
-    "product": "Knorr Chicken Stock Pot 8x28g",
-    "size": "1",
-    "price": "2.50",
-    "saved": "Save 0.30",
-    "from": "",
-    "until": "2026-06-08"
-  },
-  {
-    "store": "Tesco",
-    "product": "Surya Crushed Garlic 400g",
-    "size": "1",
-    "price": "0.95",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-06-08"
-  },
-  {
-    "store": "Tesco",
-    "product": "KTC Olive-Pomace Oil",
-    "size": "1",
-    "price": "4.00",
-    "saved": "Save 1.00",
-    "from": "",
-    "until": "2026-06-08"
-  },
-  {
-    "store": "Tesco",
-    "product": "Natco Spinach Leaf 765G",
-    "size": "1",
-    "price": "1.55",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-06-08"
-  },
-  {
-    "store": "Tesco",
-    "product": "Cirio Passata Carton 500G",
-    "size": "1",
-    "price": "0.85",
-    "saved": "Save 0.25",
-    "from": "",
-    "until": "2026-06-09"
-  },
-  {
-    "store": "Tesco",
-    "product": "Sacla Basil Pesto Pots 90g",
-    "size": "1",
-    "price": "1.50",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-06-08"
-  },
-  {
-    "store": "Tesco",
-    "product": "Tesco Pure Sunflower Oil 5 Litre",
+    "store": "Asda",
+    "product": "Pampers B.D Size 4, 44 Nappies",
     "size": "1",
     "price": "6.00",
-    "saved": "Save 1.50",
+    "saved": "Save 3.98",
     "from": "",
-    "until": "2026-06-08"
+    "until": "2026-07-25"
   },
   {
-    "store": "Tesco",
-    "product": "Napolina Spaghetti Box 500G",
+    "store": "Asda",
+    "product": "Coca-Cola Original 1.75L Bottle",
     "size": "1",
-    "price": "1.00",
-    "saved": "Save 0.50",
+    "price": "2.00",
+    "saved": "Save 0.58",
     "from": "",
-    "until": "2026-06-08"
+    "until": "2026-07-25"
   },
   {
-    "store": "Lidl",
-    "product": "MCENNEDY Twinkies 8 x 45g",
+    "store": "Asda",
+    "product": "Utterly Butterly Spread 1kg",
     "size": "1",
-    "price": "1.99",
-    "saved": "Save 0.50",
-    "from": "2026-06-04",
-    "until": "2026-06-11"
-  },
-  {
-    "store": "Lidl",
-    "product": "MCENNEDY Football Pralines",
-    "size": "120 g",
-    "price": "2.49",
-    "saved": "Save 0.50",
-    "from": "2026-06-04",
-    "until": "2026-06-11"
-  },
-  {
-    "store": "Lidl",
-    "product": "MCENNEDY Pickle Spears 710 ml",
-    "size": "1",
-    "price": "1.49",
-    "saved": "Save 0.50",
-    "from": "2026-06-04",
-    "until": "2026-06-11"
-  },
-  {
-    "store": "Lidl",
-    "product": "MAGNUM 6 Ice Cream Sticks",
-    "size": "1",
-    "price": "3.25",
-    "saved": "Save 1.00",
+    "price": "1.90",
+    "saved": "Save 0.34",
     "from": "",
-    "until": "2026-06-11"
+    "until": "2026-07-25"
   },
   {
-    "store": "Lidl",
-    "product": "CUSHELLE Toilet Paper 32 rolls",
+    "store": "Asda",
+    "product": "Bold Washing Liquid Capsule 33 w",
     "size": "1",
-    "price": "14.99",
-    "saved": "Save 2.00",
-    "from": "2026-06-04",
-    "until": "2026-06-11"
-  },
-  {
-    "store": "Lidl",
-    "product": "Mango",
-    "size": "1",
-    "price": "0.69",
-    "saved": "Save 0.30",
+    "price": "7.00",
+    "saved": "Save 1.48",
     "from": "",
-    "until": "2026-06-03"
+    "until": "2026-07-25"
   },
   {
-    "store": "Lidl",
-    "product": "Vine Tomatoes 1 kg",
-    "size": "1",
-    "price": "1.79",
-    "saved": "Save 0.79",
+    "store": "Asda",
+    "product": "Flash Multipurpose Floor Cleaner",
+    "size": "1L",
+    "price": "2.00",
+    "saved": "Save 0.24",
     "from": "",
-    "until": "2026-06-03"
+    "until": "2026-07-25"
   },
   {
-    "store": "Lidl",
-    "product": "Apricots Ripen-at-Home 500 g",
-    "size": "1",
-    "price": "1.79",
-    "saved": "Save 0.50",
+    "store": "Asda",
+    "product": "Absolut Passionfruit Vodka",
+    "size": "0.7L",
+    "price": "19.50",
+    "saved": "Save 3.50",
     "from": "",
-    "until": "2026-06-03"
-  },
-  {
-    "store": "Lidl",
-    "product": "MCENNEDY Peanuts In Shells",
-    "size": "500 g",
-    "price": "1.99",
-    "saved": "Save 0.50",
-    "from": "2026-06-04",
-    "until": "2026-06-11"
-  },
-  {
-    "store": "Lidl",
-    "product": "Galia Melon",
-    "size": "1",
-    "price": "1.49",
-    "saved": "Save 0.36",
-    "from": "",
-    "until": "2026-06-11"
+    "until": "2026-07-25"
   }
 ]
