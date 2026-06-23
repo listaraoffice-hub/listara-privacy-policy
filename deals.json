@@ -1,266 +1,5 @@
 [
   {
-    "store": "Tesco",
-    "product": "Heinz Baked Beans 4X415g",
-    "size": "1",
-    "price": "3.50",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-08-03"
-  },
-  {
-    "store": "Tesco",
-    "product": "Tesco Almonds 200G",
-    "size": "1",
-    "price": "2.10",
-    "saved": "Save 0.75",
-    "from": "",
-    "until": "2026-07-07"
-  },
-  {
-    "store": "Tesco",
-    "product": "Tesco Walnuts 200G",
-    "size": "1",
-    "price": "2.10",
-    "saved": "Save 0.65",
-    "from": "",
-    "until": "2026-07-07"
-  },
-  {
-    "store": "Tesco",
-    "product": "After Eight Mint Chocolate 300g",
-    "size": "1",
-    "price": "3.50",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-07-22"
-  },
-  {
-    "store": "Tesco",
-    "product": "Cadbury Milk Chocolate Bar 360G",
-    "size": "1",
-    "price": "4.25",
-    "saved": "Save 0.75",
-    "from": "",
-    "until": "2026-06-21"
-  },
-  {
-    "store": "Tesco",
-    "product": "Tesco Butter Brioche Rolls 8 Pack",
-    "size": "1",
-    "price": "1.40",
-    "saved": "Save 0.30",
-    "from": "",
-    "until": "2026-06-23"
-  },
-  {
-    "store": "Tesco",
-    "product": "HP Brown Sauce 450g",
-    "size": "1",
-    "price": "2.50",
-    "saved": "Save 1.10",
-    "from": "",
-    "until": "2026-07-20"
-  },
-  {
-    "store": "Tesco",
-    "product": "Tesco Finest Raspberries 150G",
-    "size": "1",
-    "price": "2.30",
-    "saved": "Save 0.65",
-    "from": "",
-    "until": "2026-07-27"
-  },
-  {
-    "store": "Tesco",
-    "product": "Suntrail Farms Nectarines Min.4",
-    "size": "1",
-    "price": "1.15",
-    "saved": "Save 0.64",
-    "from": "",
-    "until": "2026-06-29"
-  },
-  {
-    "store": "Tesco",
-    "product": "Budweiser Beer Bottles 20 x 0.3 L",
-    "size": "1",
-    "price": "10.00",
-    "saved": "Save 5.79",
-    "from": "",
-    "until": "2026-07-20"
-  },
-  {
-    "store": "Lidl",
-    "product": "Lipton Ice Tea Lemon / Peach",
-    "size": "1.25L",
-    "price": "0.99",
-    "saved": "Save 0.50",
-    "from": "2026-06-11",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Cadbury 4 Milk Ice Cream Sticks",
-    "size": "1",
-    "price": "3.05",
-    "saved": "Save 1.20",
-    "from": "",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Jersey Royal New Potatoes",
-    "size": "750g",
-    "price": "1.49",
-    "saved": "Save 0.36",
-    "from": "",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Funsize Apples 6 pack",
-    "size": "1",
-    "price": "0.59",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Spring Onions 1 bunch",
-    "size": "1",
-    "price": "0.49",
-    "saved": "Save 0.20",
-    "from": "",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Large Flat Mushrooms 250 g",
-    "size": "1",
-    "price": "0.59",
-    "saved": "Save 0.30",
-    "from": "2026-06-11",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Ripe & Ready Large Avocado",
-    "size": "1",
-    "price": "0.69",
-    "saved": "Save 0.26",
-    "from": "2026-06-11",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "Galia Melon",
-    "size": "1",
-    "price": "1.49",
-    "saved": "Save 0.26",
-    "from": "2026-06-11",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Lidl",
-    "product": "MARIBEL Peanut Butter 1 kg",
-    "size": "1",
-    "price": "3.49",
-    "saved": "Save 0.50",
-    "from": "2026-06-11",
-    "until": "2026-06-17"
-  },
-  {
-    "store": "Aldi",
-    "product": "Pesto Alla Genovese 190 g",
-    "size": "1",
-    "price": "1.49",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-07-25"
-  },
-  {
-    "store": "Aldi",
-    "product": "Pesto Rosso 190 g",
-    "size": "1",
-    "price": "1.49",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-07-25"
-  },
-  {
-    "store": "Aldi",
-    "product": "West Country Cheddar Cheese",
-    "size": "300 g",
-    "price": "2.99",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-07-25"
-  },
-  {
-    "store": "Aldi",
-    "product": "Coca-Cola Zero 8 Pack 330ml",
-    "size": "1",
-    "price": "3.49",
-    "saved": "Save 0.50",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "OLD HOPKING White Rum 700ml",
-    "size": "1",
-    "price": "12.29",
-    "saved": "Save 0.20",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "Primitivo Puglia Wine Rose 75 cl",
-    "size": "1",
-    "price": "5.49",
-    "saved": "Save 1.50",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "CARLOS Takeaway Fries 300 g",
-    "size": "1",
-    "price": "1.29",
-    "saved": "Save 0.20",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "Hot Honey Chicken Thigh Bites",
-    "size": "300 g",
-    "price": "1.99",
-    "saved": "Save 0.30",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "Sticky Toffee Pudding 450 g",
-    "size": "1",
-    "price": "2.49",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
-    "store": "Aldi",
-    "product": "Pistachio Tiramisu 2 Pack",
-    "size": "190 g",
-    "price": "2.29",
-    "saved": "Save 0.40",
-    "from": "",
-    "until": "2026-06-14"
-  },
-  {
     "store": "Asda",
     "product": "Nescafe Original Instant Coffee",
     "size": "190 g",
@@ -347,6 +86,231 @@
     "size": "0.7L",
     "price": "19.50",
     "saved": "Save 3.50",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Tesco",
+    "product": "Heinz Baked Beans 4X415g",
+    "size": "1",
+    "price": "3.50",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": "2026-08-03"
+  },
+  {
+    "store": "Tesco",
+    "product": "Suntrail Farms Nectarines Min.4",
+    "size": "1",
+    "price": "1.15",
+    "saved": "Save 0.64",
+    "from": "",
+    "until": "2026-06-29"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Almonds 200G",
+    "size": "1",
+    "price": "2.10",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-07-07"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Walnuts 200G",
+    "size": "1",
+    "price": "2.10",
+    "saved": "Save 0.65",
+    "from": "",
+    "until": "2026-07-07"
+  },
+  {
+    "store": "Tesco",
+    "product": "After Eight Mint Chocolate 300g",
+    "size": "1",
+    "price": "3.50",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-07-22"
+  },
+  {
+    "store": "Tesco",
+    "product": "HP Brown Sauce 450g",
+    "size": "1",
+    "price": "2.50",
+    "saved": "Save 1.10",
+    "from": "",
+    "until": "2026-07-20"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Finest Raspberries 150G",
+    "size": "1",
+    "price": "2.30",
+    "saved": "Save 0.65",
+    "from": "",
+    "until": "2026-07-27"
+  },
+  {
+    "store": "Tesco",
+    "product": "Budweiser Beer Bottles 20 x 0.3 L",
+    "size": "1",
+    "price": "10.00",
+    "saved": "Save 5.79",
+    "from": "",
+    "until": "2026-07-20"
+  },
+  {
+    "store": "Lidl",
+    "product": "Ice Cream Magnum Classic 6 pcs",
+    "size": "1",
+    "price": "4.75",
+    "saved": "Save 1.00",
+    "from": "",
+    "until": "2026-07-08"
+  },
+  {
+    "store": "Lidl",
+    "product": "Nuii Ice Cream Sticks 3 pcs",
+    "size": "1",
+    "price": "2.49",
+    "saved": "Save 2.00",
+    "from": "2026-06-25",
+    "until": "2026-07-08"
+  },
+  {
+    "store": "Lidl",
+    "product": "British Piccolicious Tomatoes",
+    "size": "400 g",
+    "price": "1.99",
+    "saved": "Save 0.60",
+    "from": "2026-06-25",
+    "until": "2026-07-08"
+  },
+  {
+    "store": "Lidl",
+    "product": "Pink Lady Apples 6 pack",
+    "size": "1",
+    "price": "1.99",
+    "saved": "Save 0.86",
+    "from": "2026-06-25",
+    "until": "2026-07-08"
+  },
+  {
+    "store": "Lidl",
+    "product": "Apricots Ripen-at-Home 500 g",
+    "size": "1",
+    "price": "1.79",
+    "saved": "Save 0.50",
+    "from": "2026-06-25",
+    "until": "2026-07-15"
+  },
+  {
+    "store": "Lidl",
+    "product": "Cantaloupe Melon",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.40",
+    "from": "2026-06-25",
+    "until": "2026-07-15"
+  },
+  {
+    "store": "Lidl",
+    "product": "Caramelised Peanuts 250 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "2026-06-25",
+    "until": "2026-07-08"
+  },
+  {
+    "store": "Aldi",
+    "product": "Chicken Thigh Fillets 600 g",
+    "size": "1",
+    "price": "4.39",
+    "saved": "Save 0.20",
+    "from": "",
+    "until": "2026-07-05"
+  },
+  {
+    "store": "Aldi",
+    "product": "Pesto Alla Genovese 190 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "Pesto Rosso 190 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "West Country Cheddar Cheese",
+    "size": "300 g",
+    "price": "2.99",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "EMPORIUM Grated Mozzarella",
+    "size": "250 g",
+    "price": "1.89",
+    "saved": "Save 0.10",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "EMPORIUM Greek Feta 200 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.30",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "Wine Rose Primitivo Rosato 75 cl",
+    "size": "1",
+    "price": "5.49",
+    "saved": "Save 1.50",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "LACURA Hair Culture Shampoo",
+    "size": "1",
+    "price": "1.39",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "Active Cherry Yogurt 4 Pack",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.16",
+    "from": "",
+    "until": "2026-07-25"
+  },
+  {
+    "store": "Aldi",
+    "product": "SPEC. SELEC. Chocolate Cake",
+    "size": "1",
+    "price": "2.35",
+    "saved": "Save 0.64",
     "from": "",
     "until": "2026-07-25"
   }
