@@ -1,78 +1,302 @@
 [
   {
-    "store": "Asda",
-    "product": "Nescafe Original Instant Coffee",
-    "size": "190 g",
-    "price": "5.50",
-    "saved": "Save 1.15",
-    "from": "",
-    "until": "2026-07-25"
-  },
-  {
-    "store": "Asda",
-    "product": "Surf Deep Sea Laundry Liq.60 w",
-    "size": "1",
-    "price": "7.00",
-    "saved": "Save 0.98",
-    "from": "",
-    "until": "2026-07-25"
-  },
-  {
-    "store": "Asda",
-    "product": "Filippo Berio Olive Oil 500ml",
-    "size": "1",
+    "store": "Tesco",
+    "product": "Cadbury Dairy Milk Chocolate Bar",
+    "size": "360 g",
     "price": "4.50",
-    "saved": "Save 2.98",
+    "saved": "Save 0.50",
     "from": "",
-    "until": "2026-07-25"
+    "until": "2026-12-29"
   },
   {
-    "store": "Asda",
-    "product": "M&M's Chocolate Pouch Bag 200g",
+    "store": "Tesco",
+    "product": "TUC Sandwich Snack Crackers",
+    "size": "150 g",
+    "price": "1.25",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-09-02"
+  },
+  {
+    "store": "Tesco",
+    "product": "Kp Original Salted Peanuts",
+    "size": "250 g",
+    "price": "2.75",
+    "saved": "Save 0.50",
+    "from": "",
+    "until": "2026-08-11"
+  },
+  {
+    "store": "Tesco",
+    "product": "Hellmann's Real Mayonnaise",
+    "size": "800 g",
+    "price": "4.00",
+    "saved": "Save 1.25",
+    "from": "",
+    "until": "2026-08-03"
+  },
+  {
+    "store": "Tesco",
+    "product": "Lotus Biscoff Snack Pack",
+    "size": "248 g",
+    "price": "1.00",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-08-11"
+  },
+  {
+    "store": "Tesco",
+    "product": "Pringles Texas BBQ Crisps",
+    "size": "165 g",
+    "price": "1.75",
+    "saved": "Save 0.75",
+    "from": "",
+    "until": "2026-08-11"
+  },
+  {
+    "store": "Tesco",
+    "product": "Baxters Baby Beetroot",
+    "size": "567 g",
+    "price": "2.00",
+    "saved": "Save 0.60",
+    "from": "",
+    "until": "2026-08-03"
+  },
+  {
+    "store": "Tesco",
+    "product": "Tesco Mixed Nuts 200G",
     "size": "1",
-    "price": "2.65",
-    "saved": "Save 0.43",
+    "price": "2.10",
+    "saved": "Save 0.65",
     "from": "",
-    "until": "2026-07-25"
+    "until": "2026-08-24"
   },
   {
-    "store": "Asda",
-    "product": "Pampers B.D Size 4, 44 Nappies",
+    "store": "Tesco",
+    "product": "Tesco Cashew Nuts 200G",
     "size": "1",
-    "price": "6.00",
-    "saved": "Save 3.98",
+    "price": "2.10",
+    "saved": "Save 0.65",
     "from": "",
-    "until": "2026-07-25"
+    "until": "2026-08-24"
+  },
+  {
+    "store": "Tesco",
+    "product": "Mr Kipling Angel Cake Slices 6 pcs",
+    "size": "1",
+    "price": "1.35",
+    "saved": "Save 1.40",
+    "from": "",
+    "until": "2026-08-17"
   },
   {
     "store": "Asda",
-    "product": "Coca-Cola Original 1.75L Bottle",
+    "product": "Fairy Non Bio Pods, 50 Washes",
+    "size": "1",
+    "price": "10.00",
+    "saved": "Save 2.24",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Asda",
+    "product": "Bold Washing Pods, 22 Washes",
+    "size": "1",
+    "price": "5.00",
+    "saved": "Save 1.98",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Asda",
+    "product": "Jus-Rol Pains Au Chocolat Kit",
+    "size": "275 g",
+    "price": "2.50",
+    "saved": "Save 0.48",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Asda",
+    "product": "Sauce Shop Original Hot Sauce",
+    "size": "1",
+    "price": "2.50",
+    "saved": "Save 0.44",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Asda",
+    "product": "Listerine Total Care Teeth & Gum",
     "size": "1",
     "price": "2.00",
-    "saved": "Save 0.58",
+    "saved": "Save 3.23",
     "from": "",
-    "until": "2026-07-25"
+    "until": ""
   },
   {
     "store": "Asda",
-    "product": "Utterly Butterly Spread 1kg",
+    "product": "Listerine Total Care 10 in 1 500 ml",
     "size": "1",
-    "price": "1.90",
+    "price": "2.00",
+    "saved": "Save 3.23",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Asda",
+    "product": "Heinz Vegan Mayonnaise 775g",
+    "size": "1",
+    "price": "3.50",
+    "saved": "Save 0.38",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Asda",
+    "product": "Oshee Vitamin Water 555ml",
+    "size": "1",
+    "price": "1.02",
     "saved": "Save 0.34",
     "from": "",
-    "until": "2026-07-25"
+    "until": ""
   },
   {
     "store": "Asda",
-    "product": "Bold Washing Liquid Capsule 33 w",
+    "product": "Nuii Ice Cream Anatolian Pistachio",
     "size": "1",
-    "price": "7.00",
-    "saved": "Save 1.48",
+    "price": "2.50",
+    "saved": "Save 1.98",
     "from": "",
-    "until": "2026-07-25"
+    "until": ""
   },
   {
     "store": "Asda",
+    "product": "Regina Blitz Kitchen Roll 2pk",
+    "size": "1",
+    "price": "3.00",
+    "saved": "Save 1.74",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Lidl",
+    "product": "Pinot Grigio Venezie Wine White",
+    "size": "75 cl",
+    "price": "5.99",
+    "saved": "Save 2.00",
+    "from": "",
+    "until": "2026-08-05"
+  },
+  {
+    "store": "Lidl",
+    "product": "BELLAROM Espresso Cremoso",
+    "size": "1.2 kg",
+    "price": "9.99",
+    "saved": "Save 1.50",
+    "from": "",
+    "until": "2026-08-12"
+  },
+  {
+    "store": "Lidl",
+    "product": "DELUXE Premium Quiches",
+    "size": "1",
+    "price": "3.10",
+    "saved": "Save 0.55",
+    "from": "2026-07-30",
+    "until": "2026-08-12"
+  },
+  {
+    "store": "Lidl",
+    "product": "ALESTO SELECTION Almonds",
+    "size": "500 g",
+    "price": "3.79",
+    "saved": "Save 0.40",
+    "from": "2026-07-30",
+    "until": "2026-08-12"
+  },
+  {
+    "store": "Lidl",
+    "product": "KINDER Bueno 10 x 43 g",
+    "size": "1",
+    "price": "4.99",
+    "saved": "Save 2.00",
+    "from": "2026-07-30",
+    "until": "2026-08-12"
+  },
+  {
+    "store": "Lidl",
+    "product": "ARIEL Washing Pods 85 Washes",
+    "size": "1",
+    "price": "14.39",
+    "saved": "Save 1.60",
+    "from": "2026-07-30",
+    "until": "2026-08-12"
+  },
+  {
+    "store": "Aldi",
+    "product": "NATURE'S PICK Cherries 200 g",
+    "size": "1",
+    "price": "0.65",
+    "saved": "Save 0.74",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Aldi",
+    "product": "EMPORIUM Greek Feta 200 g",
+    "size": "1",
+    "price": "1.49",
+    "saved": "Save 0.30",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Aldi",
+    "product": "Soft Cheese Full Fat 200 g",
+    "size": "1",
+    "price": "0.89",
+    "saved": "Save 0.06",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Aldi",
+    "product": "Mixed Peppers 3 pcs",
+    "size": "1",
+    "price": "1.19",
+    "saved": "Save 0.60",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Aldi",
+    "product": "NATURE'S PICK Blueberries",
+    "size": "150 g",
+    "price": "1.19",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Aldi",
+    "product": "British Mini Apples 6 pcs",
+    "size": "1",
+    "price": "0.59",
+    "saved": "Save 0.40",
+    "from": "",
+    "until": ""
+  },
+  {
+    "store": "Aldi",
+    "product": "British Baby Potatoes 1 kg",
+    "size": "1",
+    "price": "0.69",
+    "saved": "Save 0.36",
+    "from": "",
+    "until": ""
+  }
+]    "store": "Asda",
     "product": "Flash Multipurpose Floor Cleaner",
     "size": "1L",
     "price": "2.00",
